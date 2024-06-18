@@ -1,0 +1,5 @@
+Important to know:
+
+- PySpice has a problem with directories that have " " spaces in their names.
+Therefore, if you have a directory with a space in its name, you will have to rename it to something without a space.
+
