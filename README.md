@@ -10,4 +10,4 @@ For the ex-situ training, I made use of the SNNtrainer3D application proposed ea
 ## Citation
 If you are interested in citing this work, please use the following citation:
 
-S. L. Jurj, "Efficient Implementation of Spiking Neural Networks for Inference using Ex-Situ Training," in IEEE Access, doi: 10.1109/ACCESS.2024.3462606.
+S. L. Jurj, "Efficient Implementation of Spiking Neural Networks for Inference Using Ex-Situ Training," in IEEE Access, vol. 12, pp. 135014-135027, 2024, doi: 10.1109/ACCESS.2024.3462606.
